@@ -1,0 +1,26 @@
+C:\Users\Vladimir\Desktop\DeepSpaceBattles-1-master\DeepSpaceBattles-1-master\VselenskiBitki\bin\Release\VselenskiBitki.exe.config
+C:\Users\Vladimir\Desktop\DeepSpaceBattles-1-master\DeepSpaceBattles-1-master\VselenskiBitki\bin\Release\VselenskiBitki.exe
+C:\Users\Vladimir\Desktop\DeepSpaceBattles-1-master\DeepSpaceBattles-1-master\VselenskiBitki\bin\Release\VselenskiBitki.pdb
+C:\Users\Vladimir\Desktop\DeepSpaceBattles-1-master\DeepSpaceBattles-1-master\VselenskiBitki\obj\Release\VselenskiBitki.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\DeepSpaceBattles-1-master\DeepSpaceBattles-1-master\VselenskiBitki\obj\Release\VselenskiBitki.Form1.resources
+C:\Users\Vladimir\Desktop\DeepSpaceBattles-1-master\DeepSpaceBattles-1-master\VselenskiBitki\obj\Release\VselenskiBitki.Home.resources
+C:\Users\Vladimir\Desktop\DeepSpaceBattles-1-master\DeepSpaceBattles-1-master\VselenskiBitki\obj\Release\VselenskiBitki.HowToPlay.resources
+C:\Users\Vladimir\Desktop\DeepSpaceBattles-1-master\DeepSpaceBattles-1-master\VselenskiBitki\obj\Release\VselenskiBitki.Properties.Resources.resources
+C:\Users\Vladimir\Desktop\DeepSpaceBattles-1-master\DeepSpaceBattles-1-master\VselenskiBitki\obj\Release\VselenskiBitki.csproj.GenerateResource.Cache
+C:\Users\Vladimir\Desktop\DeepSpaceBattles-1-master\DeepSpaceBattles-1-master\VselenskiBitki\obj\Release\VselenskiBitki.exe
+C:\Users\Vladimir\Desktop\DeepSpaceBattles-1-master\DeepSpaceBattles-1-master\VselenskiBitki\obj\Release\VselenskiBitki.pdb
+C:\Users\rober\Downloads\Vselenski vojni proekt\VselenskiBitki\bin\Release\VselenskiBitki.exe.config
+C:\Users\rober\Downloads\Vselenski vojni proekt\VselenskiBitki\bin\Release\VselenskiBitki.exe
+C:\Users\rober\Downloads\Vselenski vojni proekt\VselenskiBitki\bin\Release\VselenskiBitki.pdb
+C:\Users\rober\Downloads\Vselenski vojni proekt\VselenskiBitki\obj\Release\VselenskiBitki.csprojResolveAssemblyReference.cache
+C:\Users\rober\Downloads\Vselenski vojni proekt\VselenskiBitki\obj\Release\VselenskiBitki.Form1.resources
+C:\Users\rober\Downloads\Vselenski vojni proekt\VselenskiBitki\obj\Release\VselenskiBitki.Home.resources
+C:\Users\rober\Downloads\Vselenski vojni proekt\VselenskiBitki\obj\Release\VselenskiBitki.HowToPlay.resources
+C:\Users\rober\Downloads\Vselenski vojni proekt\VselenskiBitki\obj\Release\VselenskiBitki.Properties.Resources.resources
+C:\Users\rober\Downloads\Vselenski vojni proekt\VselenskiBitki\obj\Release\VselenskiBitki.csproj.GenerateResource.cache
+C:\Users\rober\Downloads\Vselenski vojni proekt\VselenskiBitki\obj\Release\VselenskiBitki.csproj.CoreCompileInputs.cache
+C:\Users\rober\Downloads\Vselenski vojni proekt\VselenskiBitki\obj\Release\VselenskiBitki.exe
+C:\Users\rober\Downloads\Vselenski vojni proekt\VselenskiBitki\obj\Release\VselenskiBitki.pdb
+C:\Users\Vladimir\Desktop\Prozekt VP\version 2.0\Vselenski vojni proekt\VselenskiBitki\bin\Release\VselenskiBitki.exe.config
+C:\Users\Vladimir\Desktop\Prozekt VP\version 2.0\Vselenski vojni proekt\VselenskiBitki\obj\Release\VselenskiBitki.exe
+C:\Users\Vladimir\Desktop\Prozekt VP\version 2.0\Vselenski vojni proekt\VselenskiBitki\obj\Release\VselenskiBitki.pdb
